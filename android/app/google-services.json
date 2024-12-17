@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "53449917018",
+    "firebase_url": "https://tallerweb2-afd27-default-rtdb.firebaseio.com",
+    "project_id": "tallerweb2-afd27",
+    "storage_bucket": "tallerweb2-afd27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53449917018:android:9f82e207cfb6bd77534e63",
+        "android_client_info": {
+          "package_name": "com.example.app_fire_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53449917018-nc6quqpgnsagi4j9h0lb6sigfjg9hog2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oLIYdbzFbBJSuV5JEHbSN1f2g7z967A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53449917018-nc6quqpgnsagi4j9h0lb6sigfjg9hog2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53449917018:android:26ee238eda1b00a8534e63",
+        "android_client_info": {
+          "package_name": "com.example.deber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53449917018-nc6quqpgnsagi4j9h0lb6sigfjg9hog2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oLIYdbzFbBJSuV5JEHbSN1f2g7z967A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53449917018-nc6quqpgnsagi4j9h0lb6sigfjg9hog2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53449917018:android:071d3c8042b229cd534e63",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53449917018-nc6quqpgnsagi4j9h0lb6sigfjg9hog2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oLIYdbzFbBJSuV5JEHbSN1f2g7z967A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53449917018-nc6quqpgnsagi4j9h0lb6sigfjg9hog2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
