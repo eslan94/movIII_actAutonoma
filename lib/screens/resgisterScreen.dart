@@ -8,14 +8,14 @@ class Registerscreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: const Color(0xFF1F1B24),
+        backgroundColor: const Color.fromARGB(255, 8, 92, 118),
         title: const Text('Registro'),
       ),
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
+      body: const Padding(
+        padding: EdgeInsets.all(16.0),
         child: RegisterForm(),
       ),
-      backgroundColor: const Color(0xFF121212),
+      backgroundColor: const Color.fromARGB(255, 45, 123, 98),
     );
   }
 }

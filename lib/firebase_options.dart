@@ -47,31 +47,33 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAlU_jxCancT9Yd0FsNKTis3OvlyA75hBA',
-    appId: '1:53449917018:web:45d93b5c429daf23534e63',
-    messagingSenderId: '53449917018',
-    projectId: 'tallerweb2-afd27',
-    authDomain: 'tallerweb2-afd27.firebaseapp.com',
-    databaseURL: 'https://tallerweb2-afd27-default-rtdb.firebaseio.com',
-    storageBucket: 'tallerweb2-afd27.firebasestorage.app',
+    apiKey: 'AIzaSyCdj7lcmhHrjDaL36PBkvdNk3HJZ7wWp9s',
+    appId: '1:413837160448:web:6e2bef320877ba7c5ba8e5',
+    messagingSenderId: '413837160448',
+    projectId: 'app-one-8c953',
+    authDomain: 'app-one-8c953.firebaseapp.com',
+    databaseURL: 'https://app-one-8c953-default-rtdb.firebaseio.com',
+    storageBucket: 'app-one-8c953.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA-oLIYdbzFbBJSuV5JEHbSN1f2g7z967A',
-    appId: '1:53449917018:android:26ee238eda1b00a8534e63',
-    messagingSenderId: '53449917018',
-    projectId: 'tallerweb2-afd27',
-    databaseURL: 'https://tallerweb2-afd27-default-rtdb.firebaseio.com',
-    storageBucket: 'tallerweb2-afd27.firebasestorage.app',
+    apiKey: 'AIzaSyAHNYgxK8bVjjkHphwDW21c3gksqXW89GY',
+    appId: '1:413837160448:android:20e069dee050fb445ba8e5',
+    messagingSenderId: '413837160448',
+    projectId: 'app-one-8c953',
+    databaseURL: 'https://app-one-8c953-default-rtdb.firebaseio.com',
+    storageBucket: 'app-one-8c953.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAzIL3sEMj6SeeR_SxSiA9NZI_4jYwqS_o',
-    appId: '1:53449917018:web:f2784df337e46fb9534e63',
-    messagingSenderId: '53449917018',
-    projectId: 'tallerweb2-afd27',
-    authDomain: 'tallerweb2-afd27.firebaseapp.com',
-    databaseURL: 'https://tallerweb2-afd27-default-rtdb.firebaseio.com',
-    storageBucket: 'tallerweb2-afd27.firebasestorage.app',
+    apiKey: 'AIzaSyCdj7lcmhHrjDaL36PBkvdNk3HJZ7wWp9s',
+    appId: '1:413837160448:web:b4d9e5d75d4439035ba8e5',
+    messagingSenderId: '413837160448',
+    projectId: 'app-one-8c953',
+    authDomain: 'app-one-8c953.firebaseapp.com',
+    databaseURL: 'https://app-one-8c953-default-rtdb.firebaseio.com',
+    storageBucket: 'app-one-8c953.firebasestorage.app',
   );
+
+
 }

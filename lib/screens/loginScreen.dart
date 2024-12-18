@@ -26,7 +26,7 @@ class _LoginscreenState extends State<Loginscreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: const Color(0xFF1F1B24),
+        backgroundColor: const Color.fromARGB(255, 8, 92, 118),
         title: const Text('Iniciar sesión'),
       ),
       body: Padding(
@@ -105,7 +105,7 @@ class _LoginscreenState extends State<Loginscreen> {
                   },
                   child: const Text(
                     '¿No tienes cuenta? Regístrate aquí',
-                    style: TextStyle(color: Color(0xFF537EB8)),
+                    style: TextStyle(color: Color.fromARGB(255, 255, 255, 255)),
                   ),
                 ),
               ],
@@ -113,7 +113,7 @@ class _LoginscreenState extends State<Loginscreen> {
           ),
         ),
       ),
-      backgroundColor: const Color(0xFF121212),
+      backgroundColor: const Color.fromARGB(255, 45, 123, 98),
     );
   }
 }

@@ -69,7 +69,7 @@ class _RecomendacionesscreenState extends State<Recomendacionesscreen> {
               TextField(
                 controller: _idController,
                 decoration: const InputDecoration(
-                  labelText: 'ID de la Lista',
+                  labelText: 'ID',
                   border: OutlineInputBorder(),
                 ),
               ),
@@ -101,7 +101,7 @@ class _RecomendacionesscreenState extends State<Recomendacionesscreen> {
               const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: _guardarLista,
-                child: const Text('Guardar Lista'),
+                child: const Text('Guardar'),
               ),
             ],
           ),

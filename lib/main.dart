@@ -19,9 +19,9 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData.dark().copyWith(
-        scaffoldBackgroundColor: const Color(0xFF121212),
+        scaffoldBackgroundColor: const Color.fromARGB(255, 45, 123, 98),
         appBarTheme: const AppBarTheme(
-          backgroundColor: Color(0xFF1F1B24),
+          backgroundColor: Color.fromARGB(255, 8, 92, 118),
           titleTextStyle: TextStyle(
             color: Colors.white,
             fontSize: 20,
@@ -50,7 +50,7 @@ class WelcomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('ACTIVIDAD AUTÓNOMA 1'),
+        title: const Text('ACTIVIDAD AUTÓNOMA'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
@@ -86,7 +86,7 @@ class WelcomeScreen extends StatelessWidget {
               const SizedBox(height: 30),
               const Divider(color: Colors.white54),
               const Text(
-                'Desarrollador: Vicente Nenger\nGitHub: https://github.com/chente09',
+                'Desarrollador: Esteban Calvopiña\nGitHub: https://github.com/eslan94',
                 style: TextStyle(fontSize: 16, color: Colors.white70),
                 textAlign: TextAlign.center,
               ),
